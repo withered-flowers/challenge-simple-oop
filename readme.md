@@ -6,6 +6,13 @@ video yang sudah dibuat oleh channel tersebut.
 Buatlah sebuah program javascript, yang memanfaatkan konsep OOP, untuk menghasilkan output seperti berikut
 (dibuat berdasarkan data yang ada pada folder `data` dengan nama `creators.csv` dan `videos.csv`)
 
+Untuk membuat ini Anda wajib memanfaatkan:
+- `private` property (wajib), `getter`, dan `setter` (jika diperlukan)
+- `Factory method`
+
+Warning:
+- Hasil output **TIDAK** boleh menggunakan Object Literal saja ! (Wajib memanfaatkan OOP)
+
 ```javascript
 [
   {
