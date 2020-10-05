@@ -16,26 +16,26 @@ Warning:
 #### Contoh Hasil Output
 ```javascript
 [
-  {
-    "id": 1,
-    "name": "Deddy Corbuzier",
-    "channel_name": "corbuzier",
-    "view_count": "10.5M",
-    "videos": [ [Video], [Video] ]
+  Creator {
+    "_id": 1,
+    "_name": "Deddy Corbuzier",
+    "_channel_name": "corbuzier",
+    "_subscribers_count": "10.5M",
+    "_videos": [ [Video], [Video] ]
   },
-  {
-    "id": 2,
-    "name": "이지금 [IU Official]",
-    "channel_name": "dlwlrma",
-    "view_count": "3.93M",
-    "videos": [ [Video], [Video] ]
+  Creator {
+    "_id": 2,
+    "_name": "이지금 [IU Official]",
+    "_channel_name": "dlwlrma",
+    "_subscribers_count": "3.93M",
+    "_videos": [ [Video], [Video] ]
   },
-  {
-    "id": 3,
-    "name": "Taylor Swift",
-    "channel_name": "TaylorSwift",
-    "view_count": "38.9M",
-    "videos": [ [Video], [Video] ]
+  Creator {
+    "_id": 3,
+    "_name": "Taylor Swift",
+    "_channel_name": "TaylorSwift",
+    "_subscribers_count": "38.9M",
+    "_videos": [ [Video], [Video] ]
   }
 ]
 ```
