@@ -13,6 +13,7 @@ Untuk membuat ini Anda wajib memanfaatkan:
 Warning:
 - Hasil output **TIDAK** boleh menggunakan Object Literal saja ! (Wajib memanfaatkan OOP)
 
+#### Contoh Hasil Output
 ```javascript
 [
   {
